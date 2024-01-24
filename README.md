@@ -13,6 +13,5 @@ Made a dashboard for a small Company Axon, which is a retailer selling Classic c
 
 🔮 Future Recommendations: Looking ahead, we recommend ongoing data quality management and expanding data sources for even more comprehensive analysis.
 
-To explore it in real time click on the link below: https://lnkd.in/dqPFUD5m
 
 🙌 Acknowledgments: I🌟 I'd like to express my gratitude to OdinSchool for their incredible support and guidance throughout the journey.
